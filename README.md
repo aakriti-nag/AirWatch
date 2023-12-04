@@ -1,4 +1,4 @@
-
+![Untitled-2023-12-01-1636](https://github.com/aakriti-dot/AirWatch/assets/124000355/90be394d-3167-490a-b044-3103611e8b19)
 
 ## How to run the application
 
